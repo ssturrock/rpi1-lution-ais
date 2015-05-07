@@ -73,7 +73,7 @@ select_language() {
  	
 
 	case $(cat ${ANSWER}) in
-        "1") source /root/rpi2-lution-ais/english.trans
+        "1") source /root/rpi1-lution-ais/english.trans
              EVO_LOCALE="en_US.UTF-8"
              ;;
           *) exit 0
