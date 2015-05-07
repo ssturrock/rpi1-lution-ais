@@ -28,7 +28,7 @@
 ANSWER="/tmp/.lution"
 
 # Save retyping
-VERSION="rpi2-lution-ais-0.1 (22nd March 2015)"
+VERSION="rpi1-lution-ais-0.1 (7th May 2015)"
 
 # Installation
 KDE_INSTALLED=0      		# Has KDE been installed? Used for display manager option
